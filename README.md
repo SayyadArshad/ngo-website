@@ -22,21 +22,6 @@ This website focuses on clarity rather than complex functionality.
 
 ---
 
-## 📂 Folder Structure
-ngo-website/
-│
-├── index.html # Home page
-├── about.html # About, Vision & Mission
-├── contact.html # Contact form
-│
-├── css/
-│ └── style.css # Main stylesheet
-│
-├── images/
-└── README.md
-
----
-
 ## 🌐 Pages Included
 - **Home** – Hero section, mission statement, and areas of impact
 - **About** – Mission, Vision, and Goals displayed using card-based UI
